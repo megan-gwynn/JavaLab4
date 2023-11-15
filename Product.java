@@ -1,4 +1,4 @@
-// Megan Gagliardi & Rob Savoie
+// Megan Gagliardi
 // 12/09/2022
 // OOP 3200
 // Java Lab 4: Inheritance
